@@ -2,7 +2,7 @@
 <!--END_SECTION:waka-->
 
 
-name: Waka Readme
+name: Andrea in Code
 
 on:
   schedule:
@@ -14,12 +14,12 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: AndreaGraziosi/AndreaGraziosi.github.io.@main
+      - uses: https://github.com/AndreaGraziosi/AndreaGraziosi.github.io.git@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-- uses: AndreaGraziosi/AndreaGraziosi.github.io.@main
+- uses: https://github.com/AndreaGraziosi/AndreaGraziosi.github.io.git@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
