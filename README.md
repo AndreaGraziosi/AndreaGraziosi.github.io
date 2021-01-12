@@ -33,30 +33,4 @@ CSS and JS
 https://github.com/anmol098/waka-readme-stats#update-your-readme> for the wonderful tutorial on getting portfolios to look amazing!
 
 
-<!--START_SECTION:waka-->
-
-<!-- name: Andrea in Code
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: https://github.com/AndreaGraziosi/AndreaGraziosi.github.io.git@main
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-- uses: https://github.com/AndreaGraziosi/AndreaGraziosi.github.io.git@main
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False" -->
-<!--END_SECTION:waka-->
-<!--author https://github.com/anmol098/waka-readme-stats#update-your-readme>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AndreaGraziosi&show_icons=true&hide_border=true" />
