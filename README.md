@@ -1,6 +1,6 @@
 # Andrea Graziosi Portfolio
 
-##In this portfolio you will find:
+## In this portfolio you will find:
 * classes and training in Computer Science Andrea has finished
 * Resume - proffessional accomplishments and Degrees and other education
 * CONTACT Section
@@ -22,7 +22,7 @@ CSS and JS
 ```
 
 ## Some Contacts Links:
-* [email](mailto: andreaggraziosi@gmail.com) - Send me a note
+
 * [MakeSchool Student Bio/Portfolio](https://www.makeschool.com/portfolio/andrea-graziosi) - Make School portfolio 
 * [linked in](https://www.linkedin.com/in/andrea-g-graziosi/) - for more detail on previous experience
 
