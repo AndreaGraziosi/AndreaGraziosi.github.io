@@ -91,10 +91,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 
-<!-- # Andrea Graziosi Portfolio
+# Andrea Graziosi Portfolio
 
 
-![](./images/Tag-shot.png)
+![](/images/Tag-shot.png)
 
 In this portfolio you will find:
 1. classes and training in Computer Science Andrea has finished
@@ -126,7 +126,7 @@ CSS and JS
 
 ## Acknowledgments
 https://github.com/anmol098/waka-readme-stats#update-your-readme> for the wonderful tutorial on getting portfolios to look amazing!
- -->
+
 
 <!--START_SECTION:waka-->
 
