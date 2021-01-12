@@ -25,6 +25,7 @@ CSS and JS
 
 * [MakeSchool Student Bio/Portfolio](https://www.makeschool.com/portfolio/andrea-graziosi) - Make School portfolio 
 * [linked in](https://www.linkedin.com/in/andrea-g-graziosi/) - for more detail on previous experience
+* [to go to the site click here](http://AndreaGraziosi.github.io/index.html#about-me) - to access the site
 
 
 
