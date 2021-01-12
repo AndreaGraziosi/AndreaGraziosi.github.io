@@ -1,10 +1,10 @@
 # Andrea Graziosi Portfolio
 
 ## In this portfolio you will find:
-* classes and training in Computer Science Andrea has finished
-* Resume - proffessional accomplishments and Degrees and other education
-* CONTACT Section
-* Other relevant accomplishments  
+* Classes and training in Computer Science in progress and completed
+* Resume - proffessional accomplishments degrees and certificates
+* CONTACT information
+* Get to knnow Andrea!  
 
 ## Built With
 
