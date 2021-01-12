@@ -57,4 +57,4 @@ CSS and JS
 
 
 ## Acknowledgments
-https://github.com/anmol098/waka-readme-stats#update-your-readme> for the wonderful tutorial on gettin portfolios to look amazing!
+https://github.com/anmol098/waka-readme-stats#update-your-readme> for the wonderful tutorial on getting portfolios to look amazing!
